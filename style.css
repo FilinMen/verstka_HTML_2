@@ -8,6 +8,9 @@
     font-weight: 400;
     src: url(fonts/ClashDisplay_Complete/);
 }
+.cross {
+    cursor: grab;
+}
 body {
     font-family: "Inter", sans-serif;
     font-size: 15px;
@@ -29,6 +32,9 @@ body {
     font-family: "Inter", sans-serif;
     color: #626A72;
     margin-bottom: 60px;
+}
+.heder-img{
+    margin-left: 16px;
 }
 .heder-p{
     font-size: 16px;
@@ -513,6 +519,9 @@ p {
     padding-top: 0;
     padding-bottom: 0;
     padding-right: 0;
+}
+.input1::placeholder {
+    color: #FFFFFF;
 }
 .put1{
     background-color: #FFFFFF;
