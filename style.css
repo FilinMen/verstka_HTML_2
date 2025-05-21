@@ -125,7 +125,6 @@ h1 {
 }
 h2 {
     font-family: "Clash Display";
-    font-weight: 400;
 }
 .h2-size{
     font-size: 32px;
@@ -141,7 +140,6 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-weight: 400;
 }
 h3 {
     font-family: "Clash Display";
@@ -487,7 +485,7 @@ p {
     font-family: "Satoshi";
     font-size: 14px;
     margin-top: 0;
-    margin-bottom: 12;
+    margin-bottom: 12px;
 }
 .line-footer-1{
     margin-left: 80px;
